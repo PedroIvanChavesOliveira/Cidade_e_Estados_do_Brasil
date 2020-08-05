@@ -1,9 +1,9 @@
 import { promises as fs } from 'fs';
 
-//creatingJsonUF();
+creatingJsonUF();
 howMuchCities();
-//bigCityNameTotal();
-//biggerCityNameForState();
+bigCityNameTotal();
+biggerCityNameForState();
 
 async function biggerCityNameForState() {
   try {
