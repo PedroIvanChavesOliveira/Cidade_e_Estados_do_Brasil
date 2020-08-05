@@ -1,12 +1,20 @@
 # Cidade_e_Estados_do_Brasil
 Exercício realizado no Bootcamp em Desenvolvedor Full Stack do IGTI
 
+# Configuração
+  
+  Passos para utilização do código:
+  
+  1. Instalar o Node.js (https://nodejs.org/en/download/);
+  2. Executar o código;
+
 # Objetivos
 
   Exercitar os seguintes conceitos trabalhados no Módulo:
-   Criação de um projeto Node.js
-   Manipulação de arquivos
-   Manipulação de objetos JSON
+  
+    - Criação de um projeto Node.js
+    - Manipulação de arquivos
+    - Manipulação de objetos JSON
 
 # Enunciado
 
