@@ -1,0 +1,130 @@
+[
+  {
+    "cidade": {
+      "ID": "203",
+      "Nome": "Amapá",
+      "Estado": "4"
+    },
+    "UF": "AP"
+  },
+  {
+    "cidade": {
+      "ID": "204",
+      "Nome": "Calçoene",
+      "Estado": "4"
+    },
+    "UF": "AP"
+  },
+  {
+    "cidade": {
+      "ID": "205",
+      "Nome": "Cutias",
+      "Estado": "4"
+    },
+    "UF": "AP"
+  },
+  {
+    "cidade": {
+      "ID": "206",
+      "Nome": "Ferreira Gomes",
+      "Estado": "4"
+    },
+    "UF": "AP"
+  },
+  {
+    "cidade": {
+      "ID": "207",
+      "Nome": "Itaubal",
+      "Estado": "4"
+    },
+    "UF": "AP"
+  },
+  {
+    "cidade": {
+      "ID": "208",
+      "Nome": "Laranjal do Jari",
+      "Estado": "4"
+    },
+    "UF": "AP"
+  },
+  {
+    "cidade": {
+      "ID": "209",
+      "Nome": "Macapá",
+      "Estado": "4"
+    },
+    "UF": "AP"
+  },
+  {
+    "cidade": {
+      "ID": "210",
+      "Nome": "Mazagão",
+      "Estado": "4"
+    },
+    "UF": "AP"
+  },
+  {
+    "cidade": {
+      "ID": "211",
+      "Nome": "Oiapoque",
+      "Estado": "4"
+    },
+    "UF": "AP"
+  },
+  {
+    "cidade": {
+      "ID": "212",
+      "Nome": "Pedra Branca do Amaparí",
+      "Estado": "4"
+    },
+    "UF": "AP"
+  },
+  {
+    "cidade": {
+      "ID": "213",
+      "Nome": "Porto Grande",
+      "Estado": "4"
+    },
+    "UF": "AP"
+  },
+  {
+    "cidade": {
+      "ID": "214",
+      "Nome": "Pracuúba",
+      "Estado": "4"
+    },
+    "UF": "AP"
+  },
+  {
+    "cidade": {
+      "ID": "215",
+      "Nome": "Santana",
+      "Estado": "4"
+    },
+    "UF": "AP"
+  },
+  {
+    "cidade": {
+      "ID": "216",
+      "Nome": "Serra do Navio",
+      "Estado": "4"
+    },
+    "UF": "AP"
+  },
+  {
+    "cidade": {
+      "ID": "217",
+      "Nome": "Tartarugalzinho",
+      "Estado": "4"
+    },
+    "UF": "AP"
+  },
+  {
+    "cidade": {
+      "ID": "218",
+      "Nome": "Vitória do Jari",
+      "Estado": "4"
+    },
+    "UF": "AP"
+  }
+]
